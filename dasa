@@ -1,0 +1,51 @@
+[33mcommit 20472ec32dd1d0207a267856f6ecf3027f54a454[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Mon Feb 12 14:36:40 2024 +0300
+
+    Update README.md
+
+[33mcommit 28061523191e2fa11efbec72842ed18f6028c1f5[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 23:01:02 2024 +0300
+
+    Add files via upload
+    
+    In this matlab code, used fixed receiver position and find Visible GPS and GALILEO satellites.
+
+[33mcommit 3dab4695c7dc6fb806dff86fe1e74a1693f56562[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 22:56:34 2024 +0300
+
+    Add files via upload
+    
+    This matlab code is written to find user position using LSE(Least User Error) algorithm.
+
+[33mcommit fbd7cb8b5ecfc23592fe8316dbf00cea6561ba68[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 22:52:46 2024 +0300
+
+    Delete Find Visible Satellites directory
+
+[33mcommit 2fe956423d85fc64d7351418a9b5310225432d17[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 22:51:52 2024 +0300
+
+    Add files via upload
+
+[33mcommit feeb7c1dcea7a1e149b9fcb7f2e7f0f05c40568c[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 22:49:23 2024 +0300
+
+    Delete Visible Satellites
+
+[33mcommit 642ebd5c5ba9037c453b892ef383537594db22a6[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 22:47:58 2024 +0300
+
+    Create Visible Satellites
+
+[33mcommit 20af2cf6ec401e2706d3ca2b422c78c0a5a87588[m
+Author: Berkay İNGAV <139239393+berkayingav@users.noreply.github.com>
+Date:   Sun Jan 28 22:47:05 2024 +0300
+
+    Initial commit
